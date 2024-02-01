@@ -1,4 +1,4 @@
-# cpsc362-group-project
+# relieF - a mental health web application
 
 We decided to create a mental health web application that helps the user meditate, journal, and track their thoughts.
 
